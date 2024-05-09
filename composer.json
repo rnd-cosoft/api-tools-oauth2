@@ -1,5 +1,5 @@
 {
-    "name": "laminas-api-tools/api-tools-oauth2",
+    "name": "rnd-cosoft/api-tools-oauth2",
     "description": "Laminas module for implementing an OAuth2 server",
     "license": "BSD-3-Clause",
     "keywords": [
