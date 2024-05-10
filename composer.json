@@ -83,6 +83,6 @@
     },
     "replace": {
         "zfcampus/zf-oauth2": "^1.5.0",
-        "rnd-cosoft/api-tools-oauth2": "*"
+        "laminas-api-tools/api-tools-oauth2": "*"
     }
 }
